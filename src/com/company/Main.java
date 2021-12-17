@@ -6,6 +6,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
+
         Integer[] arr = {1,4,7,93,6};
         Solution<Integer> solution = new Solution<>();
         ArrayList<Integer> arrayList= solution.newArrayList(arr);
